@@ -2,9 +2,9 @@
 
 🎯 **About Me**  
 Mechanical Engineer driven by technology, innovation, and building digital solutions that truly improve people’s lives.  
-Strong focus on **mobile development** and **user-centered product experiences**.
+Focused on **mobile development**, **clean architecture**, and **user-centered product experiences**.
 
-🔗 **GitHub:** https://github.com/gustavokunghel
+📱 Main stack: **React Native • TypeScript • Node.js**
 
 ---
 
@@ -15,8 +15,8 @@ Strong focus on **mobile development** and **user-centered product experiences**
 - React Native / React.js  
 - Node.js / Express  
 
-### 📱 Mobile & Frontend Expertise
-- Building robust and scalable mobile applications  
+### 📱 Mobile & Frontend
+- Scalable and maintainable mobile applications  
 - Expo ecosystem & native modules  
 - State management with **Zustand**  
 - Custom **React Native component libraries**  
@@ -30,7 +30,7 @@ Strong focus on **mobile development** and **user-centered product experiences**
 ### 🗄️ Data, Storage & Backend
 - **SQLite**  
 - **AsyncStorage**  
-- Basic **CRUD APIs** with Node.js + Express  
+- REST APIs and basic **CRUD operations** with Node.js + Express  
 
 ### 🌐 Networking & Data Fetching
 - **TanStack Query (React Query)**
@@ -40,29 +40,32 @@ Strong focus on **mobile development** and **user-centered product experiences**
 
 ### 🧩 Version Control & Collaboration
 - **Git**  
-- **GitHub** (versioning, documentation, and collaborative workflows)
+- **GitHub** (versioning, documentation, and collaboration workflows)
 
 ---
 
 ## 📌 Featured Projects
-- **IziMoney** – Personal finance & expense tracking app *(React Native + TypeScript)*  
-- More projects available on my GitHub profile 👆
+- **IziMoney** – Personal finance & expense tracking app  
+  *(React Native • TypeScript • SQLite)*
+
+👉 More projects available below and on my repositories.
 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokunghel&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokunghel&layout=compact&theme=transparent)
+
+---
+
+## 📫 Contact
+- 📧 **Email:** gustavokunghel@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gustavokunghel  
+- 🧑‍💻 **GitHub:** https://github.com/gustavokunghel  
 
 ---
 
 💡 *Always learning, always building.*
 
-<!--
-**gustavokunghel/gustavokunghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
