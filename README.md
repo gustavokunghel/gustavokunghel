@@ -28,7 +28,8 @@ Focused on **mobile development**, **clean architecture**, and **user-centered p
 - Schema validation with **Zod**
 
 ### 🗄️ Data, Storage & Backend
-- **SQLite**  
+- **SQLite**
+- **PostgreSQL/ SQL**
 - **AsyncStorage**  
 - REST APIs and basic **CRUD operations** with Node.js + Express  
 
